@@ -49,7 +49,7 @@ Version Control • Containerization • RESTful APIs • Responsive Design
 
 
 📧 **Email:** jose.trocadoferreira@gmail.com  
-💼 **LinkedIn:** [José Ferreira](www.linkedin.com/in/josé-ferreira-052403376)  
+💼 **LinkedIn:** [José Ferreira](https://www.linkedin.com/in/josé-ferreira-052403376)  
 
 ---
 
