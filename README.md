@@ -2,7 +2,9 @@
 
 **Computer Engineering Student** |  
 📍 Porto, Portugal | 📧 jose.trocadoferreira@gmail.com
+
 💼 Amkor Technology Portugal 
+
 🎓 FEUP - Faculdade de Engenharia da Universidade do Porto
 
 ## About Me
